@@ -1,0 +1,19 @@
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\bin\Debug\net5.0-windows\IDM Trial Reset Cloning Winform.exe
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\bin\Debug\net5.0-windows\IDM Trial Reset Cloning Winform.deps.json
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\bin\Debug\net5.0-windows\IDM Trial Reset Cloning Winform.runtimeconfig.json
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\bin\Debug\net5.0-windows\IDM Trial Reset Cloning Winform.runtimeconfig.dev.json
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\bin\Debug\net5.0-windows\IDM Trial Reset Cloning Winform.dll
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\bin\Debug\net5.0-windows\ref\IDM Trial Reset Cloning Winform.dll
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\bin\Debug\net5.0-windows\IDM Trial Reset Cloning Winform.pdb
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\obj\Debug\net5.0-windows\IDM Trial Reset Cloning Winform.csprojAssemblyReference.cache
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\obj\Debug\net5.0-windows\IDM_Trial_Reset_Cloning_Winform.TrialResetWF.resources
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\obj\Debug\net5.0-windows\IDM Trial Reset Cloning Winform.csproj.GenerateResource.cache
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\obj\Debug\net5.0-windows\IDM Trial Reset Cloning Winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\obj\Debug\net5.0-windows\IDM Trial Reset Cloning Winform.AssemblyInfoInputs.cache
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\obj\Debug\net5.0-windows\IDM Trial Reset Cloning Winform.AssemblyInfo.cs
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\obj\Debug\net5.0-windows\IDM Trial Reset Cloning Winform.csproj.CoreCompileInputs.cache
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\obj\Debug\net5.0-windows\IDM Trial Reset Cloning Winform.dll
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\obj\Debug\net5.0-windows\ref\IDM Trial Reset Cloning Winform.dll
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\obj\Debug\net5.0-windows\IDM Trial Reset Cloning Winform.pdb
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\obj\Debug\net5.0-windows\IDM Trial Reset Cloning Winform.genruntimeconfig.cache
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\IDM Trial Reset Cloning Winform\IDM Trial Reset Cloning Winform\obj\Debug\net5.0-windows\IDM_Trial_Reset_Cloning_Winform.Register_IDM.resources
